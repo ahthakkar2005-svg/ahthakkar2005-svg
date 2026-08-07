@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Archi%20Thakkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Software%20Developer&descAlignY=58&descSize=16" width="100%" alt="Archi Thakkar banner"/>
+<img src="https://raw.githubusercontent.com/ahthakkar2005-svg/ahthakkar2005-svg/main/assets/hero-glitch.svg" width="100%" alt="Archi Thakkar — AI/ML, Full Stack Developer, Software Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8A63F5&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%2F+ML;Crafting+full-stack+web+%26+mobile+applications;Turning+data+into+decisions;Always+shipping%2C+always+learning." alt="Typing SVG" />
