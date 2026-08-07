@@ -118,7 +118,7 @@ AI/ML-based system for predicting potential disruptions in supply chain networks
 **Stack:** Python · Machine Learning · Data Science
 **Key functionality:** Risk prediction modeling on supply chain data
 
-[`Repository →`](https://github.com/ahthakkar2005-svg/supply-chain-predictor)
+[`Repository →`](https://github.com/ahthakkar2005-svg/supply-chain-predictor) · [`Live Demo →`](https://supply-chain-predictor-silk.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
