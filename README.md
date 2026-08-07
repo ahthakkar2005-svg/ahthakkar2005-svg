@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archi-thakkar-4529481b0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahthakkar2005@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ahthakkar2005-svg?style=for-the-badge&color=8A63F5&labelColor=000000)](https://github.com/ahthakkar2005-svg)
@@ -152,6 +151,10 @@ AI-powered platform for generating and optimizing resumes.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahthakkar2005-svg&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A63F5&line=8A63F5&point=ffffff" alt="Contribution Graph" width="100%"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/ahthakkar2005-svg/ahthakkar2005-svg/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
 </div>
 
 <br/>
@@ -181,7 +184,6 @@ I'm always open to interesting conversations — internship opportunities, fresh
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahthakkar2005-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archi-thakkar-4529481b0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahthakkar2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.example.com)
 
 <br/>
 
