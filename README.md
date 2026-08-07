@@ -11,7 +11,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archi-thakkar-4529481b0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahthakkar2005@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ahthakkar2005-svg?style=flat-square&color=8A63F5&labelColor=0D1117)](https://github.com/ahthakkar2005-svg)
-[![Profile views](https://komarev.com/ghpvc/?username=ahthakkar2005-svg&style=flat-square&color=8A63F5&labelColor=0D1117)](https://github.com/ahthakkar2005-svg)
+<img src="https://komarev.com/ghpvc/?username=ahthakkar2005-svg&style=flat-square&color=8A63F5&labelColor=0D1117" alt="Profile views"/>
+
+</div>
+
+<div align="center">
+
+<sub>`AI/ML` · `Full Stack` · `GenAI` · `Data Science` · `Software Engineering`</sub>
 
 </div>
 
@@ -58,36 +64,28 @@ Internship and fresher SWE roles, and collaboration
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,py,dart" alt="Languages"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend"/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Database"/>
-
-**Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile"/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
-
-</td>
+<td align="right" width="18%"><b>Languages</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=js,py,dart" alt="Languages"/></td>
+</tr>
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend"/></td>
+</tr>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend"/></td>
+</tr>
+<tr>
+<td align="right"><b>Database</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Database"/></td>
+</tr>
+<tr>
+<td align="right"><b>Mobile</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile"/></td>
+</tr>
+<tr>
+<td align="right"><b>Tools & Platforms</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/></td>
 </tr>
 </table>
 
@@ -99,20 +97,45 @@ Internship and fresher SWE roles, and collaboration
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Stock Market Analysis & Backtesting**
+**01 · Supply Chain Risk Prediction**
+<br/>
+<sub>AI/ML-based system for predicting potential disruptions in supply chain networks.</sub>
+
+`Python` `Machine Learning` `Data Science`
+
+[`Repository →`](https://github.com/ahthakkar2005-svg/supply-chain-predictor) · [`Live Demo →`](https://supply-chain-predictor-silk.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+**02 · AI Resume Builder**
+<br/>
+<sub>AI-powered platform for generating and optimizing resumes.</sub>
+
+`Python` `Machine Learning` `React`
+
+[`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
+
+</td>
+<td width="34%" valign="top">
+
+**03 · Stock Market Analysis & Backtesting**
 <br/>
 <sub>Django-based application for analyzing financial data and backtesting trading strategies.</sub>
 
 `Python` `Django` `SQL`
 
-**Key functionality:** Historical data analysis, strategy backtesting
-
 [`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<details>
+<summary><b>More Projects</b></summary>
+<br/>
 
 **MERN Workflow & Approval Automation**
 <br/>
@@ -120,41 +143,9 @@ Internship and fresher SWE roles, and collaboration
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-**Key functionality:** Workflow tracking, approval automation
-
 [`Repository →`](https://github.com/ahthakkar2005-svg/workflow-system)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Supply Chain Risk Prediction System**
-<br/>
-<sub>AI/ML-based system for predicting potential disruptions in supply chain networks.</sub>
-
-`Python` `Machine Learning` `Data Science`
-
-**Key functionality:** Risk prediction modeling on supply chain data
-
-[`Repository →`](https://github.com/ahthakkar2005-svg/supply-chain-predictor) · [`Live Demo →`](https://supply-chain-predictor-silk.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-**AI Resume Builder**
-<br/>
-<sub>AI-powered platform for generating and optimizing resumes.</sub>
-
-`Python` `Machine Learning` `React`
-
-**Key functionality:** AI-assisted resume generation and optimization
-
-[`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
-
-</td>
-</tr>
-</table>
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A63F5,100:302b63&height=2&width=100%25" width="100%"/>
 
@@ -175,11 +166,13 @@ Internship and fresher SWE roles, and collaboration
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A63F5,100:302b63&height=2&width=100%25" width="100%"/>
 
-<h3 align="center"><img src="https://api.iconify.design/lucide/lightbulb.svg?color=%238A63F5&width=20" width="20" valign="middle"/>&nbsp; Currently Exploring</h3>
+<h3 align="center"><img src="https://api.iconify.design/lucide/lightbulb.svg?color=%238A63F5&width=20" width="20" valign="middle"/>&nbsp; Currently Building</h3>
 
 <div align="center">
 
-`Generative AI` `Machine Learning` `Full Stack Development` `Intelligent Automation` `Data-Driven Applications` `System Design`
+**Supply Chain Risk Predictor** — deployed ML system flagging disruption risk, refining the model and UI
+<br/>
+**AI Resume Builder** — AI-assisted resume generation and optimization
 
 </div>
 
@@ -187,7 +180,17 @@ Internship and fresher SWE roles, and collaboration
 
 <div align="center">
 
-<sub>Currently learning, experimenting, and building with **Machine Learning**, **Generative AI**, **Python**, and **modern full-stack architectures** — deepening both the AI/ML and system-design sides of my skill set.</sub>
+<sub>Exploring and experimenting with **Machine Learning**, **Generative AI**, and **system design** — deepening both the AI/ML and architecture sides of my skill set.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A63F5,100:302b63&height=2&width=100%25" width="100%"/>
+
+<h3 align="center"><img src="https://api.iconify.design/lucide/briefcase.svg?color=%238A63F5&width=20" width="20" valign="middle"/>&nbsp; Open To</h3>
+
+<div align="center">
+
+Software Development Internships&nbsp;·&nbsp;AI/ML Internships&nbsp;·&nbsp;Fresher Software Engineering Roles&nbsp;·&nbsp;Collaboration on interesting builds
 
 </div>
 
