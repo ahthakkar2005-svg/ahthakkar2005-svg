@@ -11,17 +11,13 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archi-thakkar-4529481b0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahthakkar2005@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ahthakkar2005-svg?style=for-the-badge&color=8A63F5&labelColor=000000)](https://github.com/ahthakkar2005-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ahthakkar2005-svg&style=for-the-badge&color=8A63F5&labelColor=000000" alt="Profile views"/>
 
 </div>
-
-<br/>
-
-> **Note:** Replace `ahthakkar2005-svg` in every badge/stat URL below with your **exact** GitHub username, and swap the placeholder links (`[LINKEDIN_URL]`, `[PORTFOLIO_URL]`, `[EMAIL]`, `[PROJECT_REPO_URL]`) with your real ones before committing.
 
 <br/>
 
@@ -92,17 +88,6 @@ I'm an Integrated MCA student at **GLS University**, focused on building **full-
 <tr>
 <td width="50%" valign="top">
 
-### 📸 Instafy
-Instagram-inspired social media application replicating core social feed and interaction flows.
-
-**Stack:** React · Node.js · Express.js · MongoDB
-**Key functionality:** User feed, posts, and social interaction features
-
-[`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
-
-</td>
-<td width="50%" valign="top">
-
 ### 📈 Stock Market Analysis & Backtesting
 Django-based application for analyzing financial data and backtesting trading strategies.
 
@@ -112,8 +97,6 @@ Django-based application for analyzing financial data and backtesting trading st
 [`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔄 MERN Workflow & Approval Automation
@@ -122,9 +105,11 @@ Workflow and approval management platform for streamlining multi-step approval p
 **Stack:** MongoDB · Express.js · React · Node.js
 **Key functionality:** Workflow tracking, approval automation
 
-[`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
+[`Repository →`](https://github.com/ahthakkar2005-svg/workflow-system)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔗 Supply Chain Risk Prediction System
@@ -133,11 +118,9 @@ AI/ML-based system for predicting potential disruptions in supply chain networks
 **Stack:** Python · Machine Learning · Data Science
 **Key functionality:** Risk prediction modeling on supply chain data
 
-[`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
+[`Repository →`](https://github.com/ahthakkar2005-svg/supply-chain-predictor)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📝 AI Resume Builder
@@ -145,17 +128,6 @@ AI-powered platform for generating and optimizing resumes.
 
 **Stack:** Python · Machine Learning · React
 **Key functionality:** AI-assisted resume generation and optimization
-
-[`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Biped Robot Prototype
-Robotics project involving the design and prototyping of a biped (two-legged) robot.
-
-**Stack:** Robotics / Prototyping
-**Key functionality:** Bipedal locomotion prototype
 
 [`Repository →`](https://github.com/ahthakkar2005-svg/PROJECT_REPO_URL)
 
@@ -207,8 +179,8 @@ Currently learning, experimenting, and building with **Machine Learning**, **Gen
 I'm always open to interesting conversations — internship opportunities, fresher roles, or collaborating on a project.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahthakkar2005-svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archi-thakkar-4529481b0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahthakkar2005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.example.com)
 
 <br/>
