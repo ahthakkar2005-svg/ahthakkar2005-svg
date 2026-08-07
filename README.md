@@ -23,28 +23,30 @@
 <tr>
 <td width="60%" valign="top">
 
-Integrated MCA student at **GLS University**, building at the intersection of **full-stack engineering** and **applied AI/ML** — systems that hold up in practice, not just demos.
+I'm an Integrated MCA student at **GLS University**, and most of what I build sits at the intersection of two things: web applications people actually use, and ML models that make a decision inside them.
 
-Across projects, that's meant designing REST APIs and data models, building interfaces in React and Flutter, and applying machine learning to problems like risk prediction and workflow automation — end to end, from data to deployed product.
+That's looked like a Django app that backtests trading strategies against historical market data, a MERN-based workflow tool for routing multi-step approvals, and a supply-chain model that flags disruption risk before it happens — deployed end to end, frontend on Vercel, backend on Render. On the mobile side I've built with Flutter and Firebase; on the AI side, an AI-driven resume builder that goes beyond template-filling.
+
+I care more about a system working correctly under real data than about it looking impressive in a demo.
 
 </td>
 <td width="40%" valign="top">
 
-**Focus areas**
+**Stack I reach for**
 <br/>
-Full-Stack Development&nbsp;·&nbsp;Generative AI&nbsp;·&nbsp;Machine Learning&nbsp;·&nbsp;Data Science
+React, Node/Express, Django, MongoDB/PostgreSQL, Flutter
 
-**Approach**
+**ML/data work**
 <br/>
-Breaking down ambiguous problems into working, testable systems
+Risk prediction, backtesting pipelines, applied Generative AI
 
-**Currently**
+**Right now**
 <br/>
-Deepening AI/ML and system-design skills through hands-on builds
+Going deeper on system design and AI/ML fundamentals
 
 **Open to**
 <br/>
-Internship and fresher software engineering roles, and collaboration
+Internship and fresher SWE roles, and collaboration
 
 </td>
 </tr>
