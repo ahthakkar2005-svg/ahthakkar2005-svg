@@ -153,14 +153,11 @@ Internship and fresher SWE roles, and collaboration
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahthakkar2005-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F5&icon_color=8A63F5&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahthakkar2005-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F5&text_color=c9d1d9" alt="Top Languages"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahthakkar2005-svg&theme=tokyonight&hide_border=true&background=0D1117&ring=8A63F5&fire=8A63F5&currStreakLabel=8A63F5" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahthakkar2005-svg&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A63F5&line=8A63F5&point=ffffff" alt="Contribution Graph" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/ahthakkar2005-svg/ahthakkar2005-svg/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/ahthakkar2005-svg/ahthakkar2005-svg@output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
