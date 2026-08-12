@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahthakkar2005-svg/ahthakkar2005-svg/main/assets/hero-glitch.svg" width="100%" alt="Archi Thakkar — AI/ML, Full Stack Developer, Software Developer"/>
+<img src="https://raw.githubusercontent.com/ahthakkar2005-svg/ahthakkar2005-svg/main/assets/hero-glitch.gif" width="100%" alt="Archi Thakkar — AI/ML, Full Stack Developer, Software Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8A63F5&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%2F+ML;Crafting+full-stack+web+%26+mobile+applications;Turning+data+into+decisions;Always+shipping%2C+always+learning." alt="Typing SVG" />
